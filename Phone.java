@@ -25,7 +25,7 @@ public class Phone {
 		}
 				
 		void Function() {
-			String Function = ("\nGPS \n" + "Internet \n" + "changeVolume \n" + "powerOff \n" + "powerOnn");
+			String Function = ("\nGPS \n" + "Internet \n" + "changeVolume \n" + "powerOff \n" + "powerOn");
 			System.out.println("\nFunction : " + Function);
 		}
 	}
